@@ -47,10 +47,14 @@ No need to write Dockerfiles, Kubernetes helm charts, Terraform scripts, Pulumi 
 3. **Bring your own cloud (BYOC):** Let your customers bring their own cloud account to deploy and run your services. Connect, deploy and manage such environments remotely.
 4. **Self-hosted / On-Prem:** Let your customers IT team get Kubernetes helm charts of your service, deploy and run on their own infrastructure (data centers, private clouds, edge locations, etc).
 
-## Get started
-
+## Developer documentation
 - See developer docs at [https://docs.localops.co](https://docs.localops.co)
+
+## Get started
 - Sign up now at [https://console.localops.co/signup](https://console.localops.co/signup) and start deploying your services in minutes!
-- Join our [discord community](https://discord.gg/tx6nJvCa).
 - See a quick demo at [https://go.localops.co/tour](https://go.localops.co/tour).
 - Learn more at [localops.co](https://localops.co)
+
+## Join our community
+- Join [discord server](https://discord.gg/tx6nJvCa).
+
