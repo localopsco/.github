@@ -17,6 +17,28 @@ No need to write Dockerfiles, Kubernetes helm charts, Terraform scripts, Pulumi 
 2. Connect Github repo
 3. Push commits to deploy
 
+```
+                     +-----------------------+
+                     |   User's GitHub Repo   |
+                     |  (Code + Workflows)    |
+                     +-----------+-------------+
+                                 |
+                                 v
+                     +-----------------------+
+                     |     LocalOps Platform  |
+                     | (Build • Deploy • Manage) |
+                     +-----------+-------------+
+                                 |
+          +----------+-----------+-----------+-----------+
+          |          |                       |           |
+          v          v                       v           v
+    +---------+  +---------+           +-----------+  +-----------+
+    |  AWS    |  |  GCP    |           |   Azure   |  |  On-Prem  |
+    | Account |  | Account |           |  Account  |  | Servers   |
+    +---------+  +---------+           +-----------+  +-----------+
+
+```
+
 ## Top deployment modes
 
 1. SaaS: Deploy services in own cloud account for all users to use.
