@@ -1,5 +1,14 @@
 # LocalOps
 
+```
+ _                    _  ___
+| |    ___   ___ __ _| |/ _ \ _ __  ___
+| |   / _ \ / __/ _` | | | | | '_ \/ __|
+| |__| (_) | (_| (_| | | |_| | |_) \__ \
+|_____\___/ \___\__,_|_|\___/| .__/|___/
+                             |_|
+```
+
 LocalOps is a central cloud native deployment platform that enables developers to offer SaaS, BYOC (Bring your own cloud), On-Prem, Self-hosted versions of their services in minutes.
 
 No need to write Dockerfiles, Kubernetes helm charts, Terraform scripts, Pulumi scripts or hire DevOps engineers.
