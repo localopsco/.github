@@ -7,7 +7,7 @@
                              |_|
 ```
 
-LocalOps is a central cloud native deployment platform that enables developers to offer SaaS, BYOC (Bring your own cloud), On-Prem, Self-hosted versions of their services in minutes.
+LocalOps is a central cloud native deployment platform that enables developers to offer SaaS, BYOC (Bring your own cloud), On-Prem, Self-hosted versions of their services in just a few minutes.
 
 No need to write Dockerfiles, Kubernetes helm charts, Terraform/Pulumi scripts or hire DevOps engineers.
 
